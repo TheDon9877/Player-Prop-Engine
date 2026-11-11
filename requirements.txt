@@ -1,9 +1,0 @@
-streamlit
-scikit-learn
-scipy
-pandas
-numpy
-plotly
-nba_api
-nfl_data_py
-requests
