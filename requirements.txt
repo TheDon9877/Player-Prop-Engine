@@ -1,0 +1,8 @@
+streamlit
+lightgbm
+scipy
+pandas
+numpy
+nba_api
+nfl_data_py
+requests
